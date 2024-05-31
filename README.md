@@ -1,6 +1,6 @@
 [![MasterHead](https://timelinecovers.pro/facebook-cover/download/programmer-a-tool-for-converting-facebook-cover.jpg)](https://istiackmohammad.tech)
 <h1 align="center">Hi 👋, I'm Istiack Mohammad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Earth</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVqMWVnczVreGNqNmlkN2xpOWl3aGd6bWx2bGh2OWR0b25hY2FlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=istiack-mohammad&label=Profile%20views&color=0e75b6&style=flat" alt="istiack-mohammad" /> </p>
 
