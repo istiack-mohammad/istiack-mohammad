@@ -1,5 +1,6 @@
-<style>.Layout-sidebar {
-  position: fixed;
+<style>
+  .Layout-sidebar {
+  position: fixed !importent;
   padding: 20px;
 }
   </style>
